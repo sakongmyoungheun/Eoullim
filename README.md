@@ -35,7 +35,7 @@
 #### Model
 - 영상 학습 모델 [YOLOv5](https://github.com/ultralytics/yolov5)
 - 키포인트 학습 모델 [ResNet](https://wikidocs.net/137252)
-- STT [GPT2 API](https://huggingface.co/docs/transformers/model_doc/gpt2)
+- TTS [GPT2 API](https://huggingface.co/docs/transformers/model_doc/gpt2)
 -----------------
 ## 🚀 Result
 
